@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhangi318
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Computer Science Hons.
+- 👀 I’m interested in web designing, android programming, data science and visualisation.
+- 🌱 I am a recent computer science graduate.
 - 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me: shubhangi318@gmail.com
 
